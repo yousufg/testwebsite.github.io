@@ -1,0 +1,32 @@
+h1{
+    color: rgb(108, 108, 240);
+}
+table{
+    width: 70%;
+    margin: auto;
+    border: 1px solid rgb(180, 173, 173);
+    box-shadow: inset 0px 0px 10px 0pc rgb(83, 82, 82);
+    padding: 10px;
+}
+th{
+    text-align: right;
+    padding-right: 3%;
+}
+td{
+    padding: 1%;
+}
+input{
+    padding: 1%;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid rgb(0, 162, 255);
+    box-shadow: 0px 0px 10px 2px rgb(255, 255, 255);
+}
+input:hover{
+    padding: 1%;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid rgb(0, 162, 255);
+    box-shadow: 0px 0px 10px 2px rgb(189, 186, 186);
+
+}
